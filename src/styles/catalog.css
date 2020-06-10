@@ -1,0 +1,15 @@
+.catalog{
+    align-items: center;
+}
+#budget{
+    font-size: 20px;
+    background-color: lightskyblue;
+}
+#rented{
+    font-size: 20px;
+    background-color: salmon;
+}
+#catalog{
+    font-size: 20px;
+    background-color: limegreen;
+}
