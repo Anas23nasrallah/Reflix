@@ -1,0 +1,12 @@
+.movie-details{
+    background-color: powderblue;
+    text-align: center;
+}
+
+.movie-title{
+    font-size: 35px;
+}
+
+.movie-description{
+    font-size: 20px;
+}
